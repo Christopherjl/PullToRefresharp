@@ -5,8 +5,9 @@ using Android.Views;
 using Android.Views.Animations;
 using System;
 using Android.Content.Res;
-using Android.Support.V4.View;
 using Android.OS;
+using Android;
+using Android.Support.V4.View;
 
 namespace PullToRefresharp.Android.Views
 {
